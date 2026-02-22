@@ -18,7 +18,7 @@ generation.
 
 ### 🔹 High-Level Workflow
 
-![High Level Data Flow Diagram](.DataFlowDiagram.png)
+![High Level Data Flow Diagram](DataFlowDiagram.png)
 
 The system pipeline:
 
@@ -32,7 +32,7 @@ The system pipeline:
 
 ### 🔹 Detailed Automatic Question Generation Architecture
 
-![Object Diagram](.Object_diagram.drawio.png)
+![Object Diagram](Object_diagram.drawio.png)
 
 #### Modules:
 
