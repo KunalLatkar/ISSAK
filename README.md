@@ -122,7 +122,7 @@ following configuration:
 
 ## 🖥️ Frontend
 
-![Frontend](.Frontend.png)
+![Frontend](Frontend.png)
 
 A basic React frontend was built to:
 
